@@ -1,2 +1,2 @@
 # pimentocheese
-a great aternative to a PBJ
+a great alternative to a PBJ
